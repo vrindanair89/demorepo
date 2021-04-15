@@ -1,0 +1,38 @@
+tr{
+    text-align: center;
+    color:#555555;
+    
+}
+
+table
+{
+    margin-top: 150px;
+    height:100%;
+    box-shadow: 5px 5px 8px 3px black;
+    border:1px solid lightgrey;
+    background: transparent;
+
+
+}
+button
+{
+    /* background-image: linear-gradient(white,black); */
+    background-image: inherit;
+    background-color: hsl(252, 4%, 75%);
+    height:30px;
+    width:70px;
+    
+}
+button:hover {
+    color: #ffffff;
+    opacity: 0.5;
+}
+body{
+    background-image: url(images/10.jpg);
+    height: 100%;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
