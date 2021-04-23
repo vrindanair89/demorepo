@@ -1,16 +1,23 @@
 tr{
     text-align: center;
-    color:#555555;
-    
+    color:#0d0d0d;
+  
 }
-
+td{
+    width: 150px;
+}
+/* .heading{
+    background-color: #ffffff;
+    border: solid 1px black;
+} */
 table
 {
     margin-top: 150px;
-    height:100%;
+    
     box-shadow: 5px 5px 8px 3px black;
     border:1px solid lightgrey;
     background: transparent;
+    padding: 0ch;
 
 
 }
